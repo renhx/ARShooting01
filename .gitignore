@@ -1,6 +1,5 @@
 .DS_Store
 Library/*
-Build/*
 ProjectSettings/*
 Temp/*
 *.csproj
